@@ -6,6 +6,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72D2D&width=435&lines=TOOL+BY+SENTINO;JF+TEAM)](https://git.io/typing-svg)
 <br>
 <br>
+
+## The capabilities of the tool
+
+* Providing any fibonacci number within digit 4300.
+
+* Giving the position related to the given fibonacci number
+
+* Giving all fibonacci numbers between two places
+
+<br>
+<br>
 #### The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding numbers. The series starts with 0 and 1, and each subsequent number is obtained by adding the two numbers that came before it. Therefore, the Fibonacci series begins as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
 
 #### The sequence is named after Leonardo Fibonacci, an Italian mathematician from the 13th century who introduced the series to the Western world. However, the concept of the Fibonacci sequence had already been studied in various cultures and time periods before Fibonacci's time.
@@ -73,7 +84,4 @@ python main.py
 
 <br>
 <br>
-## The capabilities of the tool
-* Providing any fibonacci number within digit 4300.
-* Giving the position related to the given fibonacci number
-* Giving all fibonacci numbers between two places
+
