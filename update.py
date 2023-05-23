@@ -1,7 +1,7 @@
 F='main.py'
 A=print
 import requests as G,os,subprocess as B,sys
-H='https://raw.githubusercontent.com/SENTIN0/fibonacci-serios/main/main.py'
+H='https://raw.githubusercontent.com/SENTIN0/fibonacci-series/main/main.py'
 I=F
 K='update.py'
 C=G.get(H)
