@@ -36,7 +36,7 @@ git clone https://github.com/SENTIN0/fibonacci-series.git
 
 ```bash
 
-cd E-BOMB
+cd fibonacci-series
 
 ```
 
