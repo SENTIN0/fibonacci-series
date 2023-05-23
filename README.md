@@ -1,4 +1,4 @@
-# fibonacci
+# Fibonacci
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/SENTIN0/fibonacci-serios?style=social">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/SENTIN0/fibonacci-serios">
 
@@ -71,3 +71,9 @@ python main.py
 
 ```
 
+<br>
+<br>
+## The capabilities of the tool
+* Providing any fibonacci number within digit 4300.
+* Giving the position related to the given fibonacci number
+* Giving all fibonacci numbers between two places
