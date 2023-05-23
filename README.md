@@ -23,7 +23,9 @@
 #### The Fibonacci series has captured the curiosity and interest of mathematicians, scientists, and enthusiasts alike due to its inherent mathematical beauty, recurring patterns, and widespread occurrence in the natural world.
 <br>
 <br>
-### TERMUX USE
+
+###  TERMUX USE
+<br>
 
 <br>
 
