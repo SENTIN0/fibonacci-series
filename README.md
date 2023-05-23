@@ -17,6 +17,13 @@
 <br>
 <br>
 
+## The specialty of the tool
+* The special feature of this tool is that it is easy to use without any problem even in low performance devices that cannot perform the fibonacci series. This can also be used through the termux app on the smartphone.
+* Parallel processing is never used here and therefore runs even with limited computing power
+
+<br>
+<br>
+
 #### The Fibonacci series is a sequence of numbers in which each number is the sum of the two preceding numbers. The series starts with 0 and 1, and each subsequent number is obtained by adding the two numbers that came before it. Therefore, the Fibonacci series begins as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on.
 
 #### The sequence is named after Leonardo Fibonacci, an Italian mathematician from the 13th century who introduced the series to the Western world. However, the concept of the Fibonacci sequence had already been studied in various cultures and time periods before Fibonacci's time.
