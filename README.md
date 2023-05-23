@@ -30,7 +30,7 @@ apt install python -y
 
 ```bash
 
-git clone https://github.com/SENTIN0/E-BOMB.git
+git clone https://github.com/SENTIN0/fibonacci-series.git
 
 ```
 
